@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Casa Anamaria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+        div {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <h1>Casa Ana maria</h1>
+    <div>
+        <img src="imgaes/photo_1_2026-05-02_12-23-00.jpg" alt="Foto 1">
+        <img src="imgaes/photo_2_2026-05-02_12-23-00.jpg" alt="Foto 2">
+        <img src="imgaes/photo_3_2026-05-02_12-23-00.jpg" alt="Foto 3">
+        <img src="imgaes/photo_4_2026-05-02_12-23-00.jpg" alt="Foto 4">
+        <img src="imgaes/photo_5_2026-05-02_12-23-00.jpg" alt="Foto 5">
+        <img src="imgaes/photo_6_2026-05-02_12-23-00.jpg" alt="Foto 6">
+        <img src="imgaes/photo_7_2026-05-02_12-23-00.jpg" alt="Foto 7">
+        <img src="imgaes/photo_8_2026-05-02_12-23-00.jpg" alt="Foto 8">
+        <img src="imgaes/photo_9_2026-05-02_12-23-00.jpg" alt="Foto 9">
+        <img src="imgaes/photo_10_2026-05-02_12-23-00.jpg" alt="Foto 10">
+        <img src="imgaes/photo_11_2026-05-02_12-23-00.jpg" alt="Foto 11">
+        <img src="imgaes/photo_12_2026-05-02_12-23-00.jpg" alt="Foto 12">
+        <img src="imgaes/photo_13_2026-05-02_12-23-00.jpg" alt="Foto 13">
+        <img src="imgaes/photo_14_2026-05-02_12-23-00.jpg" alt="Foto 14">
+        <img src="imgaes/photo_15_2026-05-02_12-23-00.jpg" alt="Foto 15">
+        <img src="imgaes/photo_16_2026-05-02_12-23-00.jpg" alt="Foto 16">
+        <img src="imgaes/photo_17_2026-05-02_12-23-00.jpg" alt="Foto 17">
+        <img src="imgaes/photo_18_2026-05-02_12-23-00.jpg" alt="Foto 18">
+        <img src="imgaes/photo_19_2026-05-02_12-23-00.jpg" alt="Foto 19">
+    </div>
+</body>
+</html>
